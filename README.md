@@ -2,14 +2,14 @@
 
 
 
-### I'm a  FrontEnd and Mobile(React Native) developer from Brazil - Matão SP
+### I'm a  FrontEnd developer from Brazil - Matão SP
 
 
 
 
 👨‍💻 About me
 
-° 3 year working with [ReactJS](https://github.com/ReactJS) and [React Native](https://github.com/reactnative)
+° 2 year working with [ReactJS](https://github.com/ReactJS) and [React Native](https://github.com/reactnative)
 
 ° ❤️ I love writing [Typescript](https://github.com/microsoft/TypeScript) and building fun experiments on the next level
 
