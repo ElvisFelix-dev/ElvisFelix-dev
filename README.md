@@ -11,7 +11,7 @@
 
 ° 2 year working with [ReactJS](https://github.com/ReactJS).
 
-° ❤️ I love writing [Typescript](https://github.com/microsoft/TypeScript) and building fun experiments on the next level
+° ❤️ I love writing [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and building fun experiments on the next level
 
 ## 🧑‍💻 Experience with
 
