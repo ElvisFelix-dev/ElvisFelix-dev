@@ -34,8 +34,8 @@
 
 ## 📈 📉 Statistic
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisFelix-dev&theme=dark&show_icons=true=true&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisFelix-dev&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisFelix-dev&show_icons=true&theme=radical)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisFelix-dev&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
