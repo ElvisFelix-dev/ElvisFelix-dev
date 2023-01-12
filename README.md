@@ -34,7 +34,7 @@
 
 ## 📈 📉 Statistic
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisFelix-dev&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisFelix-dev&show_icons=true&theme=transparent)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/ElvisFelix-dev/github-readme-stats)
 
 
