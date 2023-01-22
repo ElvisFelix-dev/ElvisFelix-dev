@@ -29,15 +29,12 @@
 ## 📈 📉 Statistic
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvisfelix-dev&show_icons=true&locale=en&layout=dark" alt="elvisfelix-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvisfelix-dev&show_icons=true&locale=en&layout=dark" alt="elvisfelix-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvisfelix-dev&show_icons=true&locale=en&layout=compact" alt="elvisfelix-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvisfelix-dev&" alt="elvisfelix-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvisfelix-dev&show_icons=true&locale=en" alt="elvisfelix-dev" /></p>
 
-
-
-	
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvisfelix-dev&" alt="elvisfelix-dev" /></p>	
 
 
 
