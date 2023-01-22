@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Elvis Felix</h1>
-<h3 align="center">A Front End Developer passionate about technology</h3>
+<h3 align="center">I'm a  FrontEnd developer from Brazil - Matão SP</h3>
+
+° 2 year working with [ReactJS](https://github.com/ReactJS).
+
+° ❤️ I love writing [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and building fun experiments on the next level<br/>
+° 🌱 I’m currently learning [NodeJS](https://github.com/nodejs/node)<br/>
+° 🤔 I’m looking for help with [SocketIO](https://socket.io/pt-br/)<br/>
+° ⚡ Fun fact: I'm not left handed<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvisfelix-dev&label=Profile%20views&color=0e75b6&style=flat" alt="elvisfelix-dev" /> </p>
 
@@ -20,42 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvisfelix-dev&show_icons=true&locale=en" alt="elvisfelix-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvisfelix-dev&" alt="elvisfelix-dev" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
