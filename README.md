@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvisfelix-dev&label=Profile%20views&color=0e75b6&style=flat" alt="elvisfelix-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma&theme=onedark/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvisfelix-dev&theme=onedark" alt="elvisfelix-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma&theme=onedark/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvisfelix-dev&row=2&column=3&theme=onedark" alt="elvisfelix-dev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/elvis__felix" target="blank"><img src="https://img.shields.io/twitter/follow/elvis__felix?logo=twitter&style=for-the-badge" alt="elvis__felix" /></a> </p>
 
