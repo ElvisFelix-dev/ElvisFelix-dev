@@ -35,15 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvisfelix-dev&theme=dark" alt="elvisfelix-dev" /></p>
 
-<img src="https://raw.githubusercontent.com/ElvisFelix-dev/ElvisFelix-dev/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
-
-###
 
 
 
