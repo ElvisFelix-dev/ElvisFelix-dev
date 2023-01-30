@@ -35,7 +35,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvisfelix-dev&theme=dark" alt="elvisfelix-dev" /></p>
 
-![Elvis Felix](https://spotify-recently-played-readme.vercel.app/api?user=d30kw6gy64ek0m2c11abjspiv)
+![Elvis Felix](https://spotify-recently-played-readme.vercel.app/api?user=d30kw6gy64ek0m2c11abjspiv&width={width})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=d30kw6gy64ek0m2c11abjspiv&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=d30kw6gy64ek0m2c11abjspiv&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=d30kw6gy64ek0m2c11abjspiv)
 
 
 
