@@ -35,6 +35,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvisfelix-dev&theme=dark" alt="elvisfelix-dev" /></p>
 
+![Snake animation](https://github.com/ElvisFelix-dev/ElvisFelix-devi/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
