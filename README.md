@@ -35,7 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvisfelix-dev&theme=dark" alt="elvisfelix-dev" /></p>
 
-[![Spotify](https://novatorem-k3ovgief8-elvisfelix-dev.vercel.app/api/spotify)](https://open.spotify.com/user/Elvis Felix)
+[![Spotify](https://novatorem-k3ovgief8-elvisfelix-dev.vercel.app/api/spotify)](https://open.spotify.com/user/ElvisFelix)
 
 
 
