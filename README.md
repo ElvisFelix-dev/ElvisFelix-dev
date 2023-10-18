@@ -5,7 +5,7 @@
 
 ° ❤️ I love writing [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and building fun experiments on the next level<br/>
 ° 🌱 I’m currently learning [NodeJS](https://github.com/nodejs/node)<br/>
-° 🤔 I’m looking for help with [SocketIO](https://socket.io/pt-br/)<br/>
+/*° 🤔 I’m looking for help with [SocketIO](https://socket.io/pt-br/)<br/>*/
 ° ⚡ Fun fact: I'm not left handed
 <br/>
 
