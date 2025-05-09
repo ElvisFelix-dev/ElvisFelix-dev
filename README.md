@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elvis Felix</h1>
-<h3 align="center">I'm a  FrontEnd developer from Brazil - Matão SP</h3>
+<h3 align="center">I'm a  FrontEnd developer from Brazil - Campinas SP</h3>
 
-° 3 year working with [ReactJS](https://github.com/ReactJS).
+° 5 year working with [ReactJS](https://github.com/ReactJS).
 
 ° ❤️ I love writing [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and building fun experiments on the next level<br/>
 ° 🌱 I’m currently learning [NodeJS](https://github.com/nodejs/node)<br/>
